@@ -1,5 +1,5 @@
 # [Todo App 📝](https://kaushalam-task-full-stack-front.vercel.app/)
-## **Explanation Video :[Click Here](coming soon)**
+## **Explanation Video :[Click Here](https://youtu.be/VBKcU8dQFYQ)**
 ---
 
 ## Task ⚒️
