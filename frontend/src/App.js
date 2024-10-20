@@ -7,7 +7,7 @@ import  {Toaster} from "react-hot-toast"
 
 function App() {
 
-    const BASE_URL = "http://localhost:4000";
+    const BASE_URL = "https://kaushalam-task-full-stack.vercel.app";
       
 
   return (
