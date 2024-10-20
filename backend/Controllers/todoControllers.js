@@ -13,7 +13,7 @@ exports.home =  (req, res) =>{
 //to created Todo Title
 exports.createTodo = async  (req, res) => {
 
-        console.log("it came inside it")
+    console.log("it came inside it")
 
     try {
 
