@@ -63,4 +63,11 @@
 - overall gave me the confidence to do full stack project
 
 ---
+### Submitted by : 
 
+- Name : Dalsaniya Jemmy .V
+- Roll : 21BCP319
+- [PortFolio](https://jemmy.vercel.app/)
+- [Linkedin](https://www.linkedin.com/in/jemmy-dalsaniya-29924b255/)
+
+---
