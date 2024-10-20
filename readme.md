@@ -1,5 +1,5 @@
-# Todo App 📝
-
+# [Todo App 📝](https://kaushalam-task-full-stack-front.vercel.app/)
+## **Explanation Video :[Click Here](coming soon)**
 ---
 
 ## Task
@@ -24,8 +24,8 @@
 
 ---
 
-- Node.js ![Node](image.png)
-- Express.js(node.js Framework) ![ex](image-1.png)
+- Node.js 
+- Express.js(node.js Framework) 
 - Postman
 - Mongoose(will connect to MongoDB)
 - MongoDB
