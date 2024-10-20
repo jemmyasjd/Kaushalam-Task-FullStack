@@ -2,7 +2,7 @@
 ## **Explanation Video :[Click Here](coming soon)**
 ---
 
-## Task
+## Task ⚒️
 
 
 - In this assignment I have to create full stack MERN application with authetication and after this it should get to the dashboard of my todo.
@@ -20,7 +20,7 @@
 
 - First Intention to create title then after adding it to the list I'll add extra task under it.
 
-## Technologies (Will be used in it)
+## Technologies Used⚙️
 
 ---
 
@@ -35,7 +35,7 @@
 ---
 
 
-## Planning
+## Planning 🧠
 
 ### Frontend planning
 
@@ -54,7 +54,7 @@
 ![ss3](./screenshots/dashboard.png)
 
 ---
-### Submitted by : 
+### Submitted by : 👦
 
 - Name : Dalsaniya Jemmy .V
 - Roll : 21BCP319
